@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" group-title="TRT",TRT 1 HD
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="Canlı",Bein Sports 1
-https://dga1op10s1u3leo.ab2740516db851.click/live/selcukobs1/playlist.m3u8
+https://dga1op10s1u3leo.ab2740516db851.click/live/selcukbeinsports3/playlist.m3u8?output=ts
 #EXTINF:-1 tvg-name="BeinSports3" group-title="Canlı",BeinSports3
 https://dga1op10s1u3leo.ab2740516db851.click/live/selcukbeinsports3/playlist.m3u8?output=ts
